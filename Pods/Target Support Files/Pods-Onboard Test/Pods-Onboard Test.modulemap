@@ -1,0 +1,6 @@
+framework module Pods_Onboard_Test {
+  umbrella header "Pods-Onboard Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
